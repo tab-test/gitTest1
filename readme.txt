@@ -3,3 +3,5 @@ something new txt
 some new line
 
 Git is a distributed versioncontrol system GPL
+
+我刚刚成功推送到GitHub
