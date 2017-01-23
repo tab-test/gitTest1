@@ -11,4 +11,4 @@ Git is a distributed versioncontrol system GPL
 修改了源地址
 
 啊大大 add new line
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
