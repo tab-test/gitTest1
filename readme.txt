@@ -13,3 +13,6 @@ Git is a distributed versioncontrol system GPL
 啊大大 add new line
 
 Creating a new branch is quick and simple.
+
+add merge
+add merge 2
